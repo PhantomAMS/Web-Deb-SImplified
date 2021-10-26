@@ -1,2 +1,2 @@
-# Web-Deb-SImplified
-Web Dev Simplified practice
+# Web-Deb-Simplified
+
